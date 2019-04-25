@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/emanuel/Desktop/Project_Chatbot/02_Product/01_Homepage/9dimensional/models/nlu/current/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/Users/emanuel/Desktop/Project_Chatbot/02_Product/01_Homepage/9dimensional/models/nlu/current/intent_classifier_tensorflow_embedding.ckpt"
